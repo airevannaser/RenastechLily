@@ -3,7 +3,7 @@ package Day_13_WhileLoop;
 public class Topic2_WhileLoopcont {
 
     public static void main(String[] args) {
-
+     Hi
         int i =0;
         while(i<10){
             // i++; // this will increase the i value before running the code below
